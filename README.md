@@ -8,7 +8,6 @@
 
 ![Code](https://img.shields.io/badge/Code-by%20Claude-D97757?style=for-the-badge)
 ![Ideas](https://img.shields.io/badge/Ideas-by%20me-2D2D2D?style=for-the-badge)
-![Coffee](https://img.shields.io/badge/Coffee-%E2%88%9E-6F4E37?style=for-the-badge)
 
 </div>
 
